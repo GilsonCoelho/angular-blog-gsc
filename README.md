@@ -1,3 +1,7 @@
+# Project created from DIO's course on Angular
+
+Reference project on GitHub [Felipe Aguiar](https://github.com/felipeAguiarCode/angular-blog)
+
 # AngularBlogGsc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
